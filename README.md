@@ -56,17 +56,23 @@ Note: Prices are per million tokens (MTok).
 | Gemini 1.5 Flash | Multimodal | Image Input | $0.00002 / image | $0.00004 / image |
 | | | Video Input | $0.00002 / second | $0.00004 / second |
 | | | Text Input | $0.00001875 / 1k characters | $0.0000375 / 1k characters |
+| | | | $0.075 / 1M tokens | $0.15 / 1M tokens |
 | | | Audio Input | $0.000002 / second | $0.000004 / second |
 | | | Text Output | $0.000075 / 1k characters | $0.00015 / 1k characters |
+| | | | $0.30 / 1M tokens | $0.60 / 1M tokens |
 | Gemini 1.5 Pro | Multimodal | Image Input | $0.001315 / image | $0.00263 / image |
 | | | Video Input | $0.001315 / second | $0.00263 / second |
 | | | Text Input | $0.00125 / 1k characters | $0.0025 / 1k characters |
+| | | | $5.00 / 1M tokens | $10.00 / 1M tokens |
 | | | Audio Input | $0.000125 / second | $0.00025 / second |
 | | | Text Output | $0.00375 / 1k characters | $0.0075 / 1k characters |
+| | | | $15.00 / 1M tokens | $30.00 / 1M tokens |
 | Gemini 1.0 Pro | Multimodal | Image Input | $0.0025 / image | - |
 | | | Video Input | $0.002 / second | - |
 | | | Text Input | $0.000125 / 1k characters | - |
+| | | | $0.50 / 1M tokens | - |
 | | | Text Output | $0.000375 / 1k characters | - |
+| | | | $1.50 / 1M tokens | - |
 | Grounding with Google Search | Text | Grounding requests | $35 / 1k requests (for up to 1M requests per day) | - |
 
 ### Supplementary Information: 128K Context Window
